@@ -1,4 +1,4 @@
-# <h3 align="center">Discord ClimbBot</h3>
+#<h3 align="center">Discord ClimbBot</h3>
 <p align="center">
 ClimbBot helps individuals who want to improve their climbing level. Users can create a profile and request for a workout that will help them improve their climbing. As of now, its functions are very simple, creating a user exclusive profile, profile update, and workout creation. Future patches will include gym locator, tip of the day, etc. <br>
 
